@@ -1,3 +1,4 @@
 # go-contacts-master
 go-contacts-master
-	/eclipse-marketplace/last-update/:name
+
+<img alt="Eclipse Marketplace" src="https://img.shields.io/eclipse-marketplace/last-update/lastupdate">
