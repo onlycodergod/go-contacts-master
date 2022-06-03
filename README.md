@@ -1,4 +1,3 @@
 # go-contacts-master
 go-contacts-master
-
-<img alt="Eclipse Marketplace" src="https://img.shields.io/eclipse-marketplace/last-update/lastupdate">
+<img alt="AUR last modified" src="https://img.shields.io/aur/last-modified/today?style=plastic">
